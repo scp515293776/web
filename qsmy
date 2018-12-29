@@ -1,0 +1,49 @@
+{
+  "name": "秦时明月",
+  "author": "玄机",
+  "date": 2007,
+  "role": [
+    {
+      "name": "荆天明",
+      "dub": "冯骏骅",
+      "identity": "第一男主角;墨家巨子",
+      "speciality":"武功、机关术",
+      "race":"燕丹"
+    },
+    {
+      "name": "高月",
+      "dub": "黄怡晴",
+      "identity": "第一女主角;高月公主",
+      "speciality":"医术、药理",
+      "race":"燕丹"
+    },
+    {
+      "name": "项少羽",
+      "dub": "沈达威",
+      "identity": "项氏一族少主",
+      "speciality":"千斤拔鼎之神力",
+      "race":"楚国"
+    },
+    {
+      "name": "石兰",
+      "level": "洪海天",
+      "identity": "蜀山虞渊护卫之一",
+      "speciality":"轻功",
+      "race":"蜀山"
+    },
+    {
+      "name": "鬼谷子",
+      "level": "苏东生",
+      "identity": "历代纵横家首领",
+      "speciality":"	纵剑术必杀·百步飞剑",
+      "race":"纵横家·鬼谷派"
+    },
+    {
+      "name": "端木蓉",
+      "level": "李敏妍",
+      "identity": "墨家统领之一",
+      "speciality":"医术",
+      "race":"墨家"
+    }
+  ]
+}
